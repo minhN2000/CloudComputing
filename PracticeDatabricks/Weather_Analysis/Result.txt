@@ -1,0 +1,36 @@
+Task 1:
+Max temperature for 2015 is: 95.4 belong to STN: 865800 by 20150128
+
+Min temperature for 2015 is: 28.4 belong to STN: 865800 by 20150619
+
+Max temperature for 2016 is: 93.2 belong to STN: 999999 by 20160910
+
+Min temperature for 2016 is: 2.1 belong to STN: 999999 by 20160212
+
+Max temperature for 2017 is: 95.2 belong to STN: 868240 by 20171021
+
+Min temperature for 2017 is: 44.2 belong to STN: 868240 by 20170826
+
+Max temperature for 2018 is: 102.7 belong to STN: 998172 by 20180414
+
+Min temperature for 2018 is: 22.3 belong to STN: 998172 by 20180203
+
+Max temperature for 2019 is: 91.0 belong to STN: A07354 by 20190719
+
+Min temperature for 2019 is: -31.0 belong to STN: A07354 by 20190131
+
+Task 2:
+Max temperature from 2010 to 2019 is: 107.8 belong to STN: 959370 by 20110201
+
+Min temperature from 2010 to 2019 is: -31.0 belong to STN: A07354 by 20190131
+
+Task 3:
+Max precipitation for 2015 is: 4.96 belong to STN: 865800 by 20150813
+
+Min precipitation for 2015 is: 0.00 belong to STN: 865800 by 20150102
+
+Task 4:
+the percent of missing values for mean station pressure (STP) for the year 2019 is: 0.0
+
+Task 5:
+maximum wind gust in 2019 is: 53.0 belong to STN: A07354 by 20190627
